@@ -130,6 +130,8 @@ VALUES(26, 'Inferno', '1980/02/07', 'Horror', 'Mysterious murders happen in New 
 INSERT INTO Movie(MovieID, Name, ReleaseDate, Genre, Description, Subgenre, PlotTwist, StreamingService, Director)
 VALUES(27, 'Behind the Mask: The Rise of Leslie Vernon', '2006/03/12', 'Horror', 'A documentary crew learns about a slasher emulating the legacy of Jason, Michael and Freddy', 'Slasher Mockumentary', 0, 'Shudder', 'Scott Glosserman');
 
+INSERT INTO Movie(MovieID, Name, ReleaseDate, Genre, Description, Subgenre, PlotTwist, StreamingService, Director)
+VALUES(28, 'Halloween 2(2009)', '2009/08/28', 'Horror', 'Michael Myers returns while Lauries life turns into a downward spiral', 'Slasher', 0, 'None', 'Rob Zombie');
 
 --INSERT INTO Movie(MovieID, Name, ReleaseDate, Genre, Description, Subgenre, PlotTwist, StreamingService, Director)
 --VALUES(0, '', '', '', '', '', 0, '', '');

@@ -11,12 +11,12 @@ td {
 }
 
 .odd {
-    background: slategray;
+    background: rgb(230, 97, 0);
 }
 
 #movierec {
     width: 180px;
-    border: solid 10px slategray;
+    border: solid 10px rgb(230, 97, 0);
 }
 
 #rectext {
